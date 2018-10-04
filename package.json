@@ -1,0 +1,33 @@
+{
+  "name": "loc8r",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "main": "app.js",
+  "scripts": {
+  	"start": "node ./bin/www",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+ 
+  "dependencies": {
+    "body-parser": "~1.8.1",
+    "cookie-parser": "~1.3.3",
+    "debug": "^4.0.1",
+    "express": "^4.16.3",
+    "morgan": "~1.3.0",
+    "pug": "^2.0.3",
+    "serve-favicon": "^2.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PunioGr3y/loc8r.git"
+  },
+  "author": "punio-gr3y",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PunioGr3y/loc8r/issues"
+  },
+  "homepage": "https://github.com/PunioGr3y/loc8r#readme"
+}
+
+	  
